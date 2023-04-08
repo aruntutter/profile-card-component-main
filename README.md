@@ -18,7 +18,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Live Site URL: [https://aruntutter.github.io/profile-card-component-main/](https://your-live-site-url.com)
+- Solution URL: [here](https://github.com/aruntutter/profile-card-component-main)
+- Live Site URL: [here](https://aruntutter.github.io/profile-card-component-main/)
 
 ## My process
 
